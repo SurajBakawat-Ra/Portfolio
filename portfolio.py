@@ -148,6 +148,7 @@ st.markdown("")
 st.markdown("")
 st.markdown("")
 st.subheader("Almanac (2023)", anchor=False)
+st.write("[View on Google Play Store](https://play.google.com/store/apps/details?id=com.RaAten.Almanac)")
 st.write("A 2D fantasy RPG built in Unity and C#, released on the Google Play Store.")
 st.markdown(
     """
