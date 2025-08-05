@@ -18,6 +18,10 @@ st.set_page_config(
 
 linkedin_icon_base64 = get_base64_image("linkedin_icon.png")
 
+# Handle ping to reduce app load
+if 'ping' in st.query_params:
+    st.stop()
+
 # --- Header ---
 st.title("Suraj Bakawat", anchor=False)
 st.subheader("Software Engineer", anchor=False)
