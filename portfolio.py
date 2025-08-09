@@ -48,6 +48,7 @@ st.markdown(
         border-radius: 10px;
         border: 1px solid #e0e0e0;
         margin-bottom: 20px;
+        color: #f5f5f5;
     '>
         Hello, I'm Suraj Bakawat, a Computer Science and Engineering graduate from IIT Patna. At WinZO, Talentica, and Reliance Games, I’ve worked across SDKs, backend services, GenAI features, and large-scale game systems. I enjoy solving complex problems, collaborating across teams, and continuously learning. To stay ahead of the curve, I'm dedicated to personal growth, continuously learning and adapting to industry trends and technologies. I'm eager to connect with developers and creators who share the excitement for crafting exceptional experiences, both within and beyond the corporate landscape! 
     </div>
