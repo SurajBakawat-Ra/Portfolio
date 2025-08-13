@@ -25,7 +25,7 @@ if 'ping' in st.query_params:
 # --- Header ---
 st.title("Suraj Bakawat", anchor=False)
 st.subheader("Software Engineer", anchor=False)
-st.write("📞 +91 8839148272")
+#st.write("📞 +91 8839148272")
 st.write("📧 [surajbakawat1@gmail.com](mailto:surajbakawat1@gmail.com)")
 linkedin_icon_base64 = get_base64_image("linkedin_icon.png")
 st.markdown(
